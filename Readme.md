@@ -13,7 +13,7 @@ Jika buah yang di masukan ke kranjang berhasil maka akan ada pesan "Yey, berhasi
 Tapi jika buah yang dimasukan ke Kranjang sudah Penuh maka akn muncul pesan "Ops, keranjang penuh"
 
 ## Jawaban No 2
-![Class Diagram](https://github.com/MTYU-Luki/Currency-Apps/blob/master/Currency%20Apps/ClassDiagram1.png)
+![Class Diagram](https://github.com/MTYU-Luki/FreshFruit/blob/master/FreshFruit/ClassDiagram1.png)
 
 ## Jawaban No 3
 diawali pada `MainWindow.xaml.cs`
